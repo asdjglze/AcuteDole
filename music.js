@@ -6,5 +6,4 @@
   window.open("https://www.goflac.com/search?query="+keyword);
   window.open("http://tool.liumingye.cn/music/?page=audioPage&type=migu&name="+keyword);
   window.open("http://tool.liumingye.cn/music/?page=audioPage&type=YQB&name="+keyword);
-  window.open("http://tool.liumingye.cn/music/?page=audioPage&type=YQD&name="+keyword);
 })();
